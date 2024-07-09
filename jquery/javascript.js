@@ -114,5 +114,5 @@ function formatHistoricoData(data) {
   `;
 }
 
-setInterval(fetchData, 5000);
+setInterval(fetchData, 1000);
 fetchData();
